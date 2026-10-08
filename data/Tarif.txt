@@ -1,0 +1,8 @@
+Mercure | Capacite: 10 | Tarif: 10,00 TND/h | Equipements: Wi-Fi
+Venus | Capacite: 15 | Tarif: 18,00 TND/h | Equipements: Projecteur, Wi-Fi
+Terre | Capacite: 20 | Tarif: 25,00 TND/h | Equipements: Projecteur, Wi-Fi, Tableau blanc
+Mars | Capacite: 12 | Tarif: 15,00 TND/h | Equipements: Wi-Fi, Tableau blanc
+Jupiter | Capacite: 30 | Tarif: 30,00 TND/h | Equipements: Projecteur, Wi-Fi, Tableau blanc
+Saturne | Capacite: 18 | Tarif: 20,00 TND/h | Equipements: Wi-Fi, Tableau blanc
+Uranus | Capacite: 8 | Tarif: 12,00 TND/h | Equipements: Wi-Fi
+Neptune | Capacite: 10 | Tarif: 15,00 TND/h | Equipements: Projecteur

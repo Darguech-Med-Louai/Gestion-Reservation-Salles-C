@@ -1,0 +1,4 @@
+ID: 1 | Client: Client Exemple 1 | Salle: Jupiter | Date: 03/12/2025 | Début: 09:00 | Fin: 11:00 | Personnes: 8 | Tarif: 60,00 TND | Statut: confirmee
+ID: 2 | Client: Client Exemple 2 | Salle: Terre | Date: 15/12/2025 | Début: 14:00 | Fin: 16:00 | Personnes: 6 | Tarif: 50,00 TND | Statut: modifiee
+ID: 3 | Client: Client Exemple 3 | Salle: Saturne | Date: 22/12/2025 | Début: 10:00 | Fin: 11:00 | Personnes: 5 | Tarif: 20,00 TND | Statut: confirmee
+ID: 4 | Client: Client Exemple 4 | Salle: Uranus | Date: 22/12/2025 | Début: 10:00 | Fin: 12:00 | Personnes: 3 | Tarif: 24,00 TND | Statut: annulee
