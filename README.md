@@ -20,7 +20,7 @@ Les captures fournies montrent les six écrans de l'application :
 
 ## Démo
 
-![demo](video/https://drive.google.com/file/d/1OwIY-LzL7hwX98eL-NE560yixGo3Fz8r/view?usp=sharing)
+![demo](https://drive.google.com/file/d/1OwIY-LzL7hwX98eL-NE560yixGo3Fz8r/view?usp=sharing)
 
 ## Fonctionnalités
 
