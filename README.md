@@ -18,6 +18,10 @@ Les captures fournies montrent les six écrans de l'application :
 
 ![Factures](images/captures/06-factures.png)
 
+## Démo
+
+![demo](video/https://drive.google.com/file/d/1OwIY-LzL7hwX98eL-NE560yixGo3Fz8r/view?usp=sharing)
+
 ## Fonctionnalités
 
 - Gestion des salles et de leurs capacités, tarifs horaires et équipements.
