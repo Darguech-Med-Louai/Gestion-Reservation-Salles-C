@@ -1,0 +1,7 @@
+===== FACTURE =====
+Client : Entreprise Y
+Salle : Jupiter
+Date : 22/10/2026
+Heure : 09:00-19:00
+Duree : 10 h 0 min
+Montant : 300,00 TND

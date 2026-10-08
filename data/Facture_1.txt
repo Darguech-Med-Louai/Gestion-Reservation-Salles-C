@@ -1,7 +1,0 @@
-===== FACTURE =====
-Client : Client Exemple 1
-Salle : Jupiter
-Date : 03/12/2025
-Heure : 09:00-11:00
-Duree : 2 h 0 min
-Montant : 60,00 TND
